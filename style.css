@@ -1,0 +1,83 @@
+header {
+    background-color: white;
+    width: 100%;
+    height: 15vh;
+}
+
+.logfs {
+    font-size: 40px;
+    font-weight: bolder;
+}
+
+/* section first */
+
+.bgfirst {
+    background-image: url(assets/img/hero-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    background-position: center;
+}
+
+.tiltefont {
+    font-size: 50px;
+}
+
+
+.h-color:hover {
+    color: rgb(241, 98, 98) !important;
+    transition: .4s;
+}
+
+
+/* section brand slider */
+
+/* ????? chera khati neveshtan javb nemide? */
+
+.wslider{
+>div{
+    >figure{
+
+        >img{
+            min-width: 20px;
+        }
+    }
+    }
+}
+
+
+
+/* Amar */
+
+.posi{
+    width: 60px;
+    height: 60px;
+    top: -30px;
+    box-shadow: 0 0 15px 1px rgba(128, 128, 128, 0.281);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+}
+.shadoww{
+    box-shadow: 0 0 15px 5px rgba(128, 128, 128, 0.103);
+ 
+}
+
+
+
+
+/* services */
+
+.line{
+    width: 60px;
+    height: 3px;
+}
+
+.h-bgcolor:hover{
+    background-color: black !important;
+}
+
+
+
+
