@@ -13,13 +13,11 @@
 
 - [Demo Project](https://pouria-farahani-developer.github.io/Accordion-Menu-By-React/)
 
-- Developed by pouria farahani
+- Developed by Mrs.Parisa Moheb
 
-- Created - 2022-11-26
+- Created - 2024-December-31
 
-- Technologies Used - Html , css , js , React.js
-
-- Hooks Used : useState 
+- Technologies Used - Html , Css , Bootstrap
 
 - Role - Frontend
 
