@@ -88,6 +88,7 @@ header {
     box-shadow: 0 0 15px 5px rgba(128, 128, 128, 0.103); 
 }
 
+
 /* binocular */
 
 .binoculars {
@@ -96,6 +97,7 @@ header {
         width: 23%;
         height: 18%;
         cursor: pointer;
+
         >span {
             padding: 5px;
             display: flex;
@@ -106,11 +108,13 @@ header {
             color: black;
             border: 1px solid rgba(172, 167, 167, 0.24);
             transition: .6s;
+
             &:hover{
                 border: 1px solid rgb(221, 86, 86);
                 >i{
                     color:rgb(221, 86, 86) ;
-                }                
+                }
+                
             }
 
             >i {
@@ -119,11 +123,12 @@ header {
                 margin-top: 10px;
                 margin-bottom: 15px;
                 transition: .6s;
+
             }
+
         }
     }
 }
-
 
 
 
