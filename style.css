@@ -142,6 +142,8 @@ header {
 
 .h-bgcolor:hover{
     background-color: black !important;
+    cursor: pointer;
+
 }
 
 
