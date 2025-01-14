@@ -44,12 +44,24 @@ header {
     background-size: cover;
     height: 100vh;
     background-position: center;
+     &::after{
+        content: "";
+        display:inline-block;
+        background-color: rgba(0, 0, 0, 0.411);
+        height: 100%;
+        width: 100%;
+        position: absolute;
+        top: 0;
+    }
 }
 
 .tiltefont {
     font-size: 50px;
 }
 
+.zindx{
+    z-index: 1;
+}
 
 .h-color:hover {
     color: rgb(241, 98, 98) !important;
