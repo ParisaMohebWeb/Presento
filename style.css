@@ -249,4 +249,29 @@ header {
 
 
 
+/* staff */
+.profil{
+    min-width: 30% !important ;
+    overflow:scroll;
+    
+    >div{    
+    min-width: 30%;
+    padding: 30px;
+    box-shadow: 0 0 15px rgba(128, 128, 128, 0.219);
+    margin-bottom: 20px;
+
+    >div{
+        width: 100px;
+        height: 100px;
+        background-color: aqua;
+        border-radius: 50%;
+        overflow: hidden;
+    }
+
+    }
+}
+
+
+
+
 
