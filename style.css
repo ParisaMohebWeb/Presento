@@ -271,6 +271,26 @@ header {
     }
 }
 
+/* pricing */
+
+.bgcolor{
+    background-color: rgb(66, 64, 64);
+    color: rgb(179, 178, 178);
+    font-weight: bold;
+    padding:40px 30px;
+    margin: 30px 0;
+    line-height: 35px;
+}
+
+.bgcolor2{
+    background-color: rgb(245, 78, 78);
+    color: white;
+    font-weight: bold;
+    padding:40px 30px;
+    line-height: 35px;
+
+
+}
 
 
 
